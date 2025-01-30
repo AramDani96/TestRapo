@@ -6,6 +6,7 @@
         {
             Console.WriteLine("Aram");
             Console.WriteLine("Gagagagagag");
+            Console.WriteLine("asdasfrerewe");
         }
     }
 }
